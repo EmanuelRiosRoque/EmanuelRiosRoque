@@ -16,7 +16,8 @@
   <img align="center" alt="Emanuel-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Emanuel-Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="Emanuel-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg">
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" />
+
   <img align="right" alt="Emanuel-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/d2/c1/5a/d2c15a05363c828c03d97d0b5fced1d2.gif">
 </div>
 
