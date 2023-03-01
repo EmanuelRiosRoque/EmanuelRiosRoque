@@ -1,6 +1,5 @@
 
-
-<p> Hola Soy Emanuel Rios Roque Y ESTE ES MI GITHUB !!! </p>
+##Hola Soy Emanuel Rios Roque Y ESTE ES MI GITHUB !!!
 
 <div align="center">
   <a href="https://github.com/EmanuelRiosRoque?tab=repositories">
@@ -18,9 +17,10 @@
   <img align="center" alt="Emanuel-Ts" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Emanuel-MySql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Emanuel-Php" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="center" alt="Emanuel-C++" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg">
+  <img align="center" alt="Emanuel-Laravel" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
   <img align="center" alt="Emanuel-Composer" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" />
   <img align="center" alt="Emanuel-Npm" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+  <img align="center" alt="Emanuel-Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   
   <img align="right" alt="Emanuel-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/d2/c1/5a/d2c15a05363c828c03d97d0b5fced1d2.gif">
 </div>
