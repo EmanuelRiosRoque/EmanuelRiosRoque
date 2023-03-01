@@ -1,13 +1,10 @@
-
-##Hola Soy Emanuel Rios Roque Y ESTE ES MI GITHUB !!!
-
-<div align="center">
+## Hola soy emanuel y este es mi GITHUB
+ <div align="center">
   <a href="https://github.com/EmanuelRiosRoque?tab=repositories">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EmanuelRiosRoque&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelRiosRoque&layout=compact&langs_count=7&theme=discord_old_blurple"/>
-</div>
-
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EmanuelRiosRoque&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelRiosRoque&layout=compact&langs_count=16&theme=github_dark"/>
+<div>
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Emanuel-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Emanuel-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
