@@ -1,8 +1,8 @@
 ## Hola soy emanuel y este es mi GITHUB
  <div align="center">
   <a href="https://github.com/EmanuelRiosRoque?tab=repositories">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EmanuelRiosRoque&show_icons=true&theme=github_ligthk&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelRiosRoque&layout=compact&langs_count=16&theme=github_lihgt"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EmanuelRiosRoque&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelRiosRoque&layout=compact&langs_count=16&theme=github_dark"/>
 <div>
   
 <div style="display: inline_block"><br>
