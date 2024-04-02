@@ -17,8 +17,9 @@
   <img align="center" alt="Emanuel-Composer" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" />
   <img align="center" alt="Emanuel-Npm" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
   <img align="center" alt="Emanuel-Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img align="center" alt="Emanuel-Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
- <img align="center" alt="Emanuel-Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
+  <img align="center" alt="Emanuel-GitHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+ <img align="center" alt="Emanuel-Bootstrap" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+ <img align="center" alt="Emanuel-Tailwind" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
   
   <img align="right" alt="Emanuel-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/d2/c1/5a/d2c15a05363c828c03d97d0b5fced1d2.gif">
 </div>
