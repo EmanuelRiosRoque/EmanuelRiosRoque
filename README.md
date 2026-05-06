@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  Apasionado por el desarrollo de sistemas web, automatización de procesos y creación de soluciones prácticas, escalables y bien estructuradas.
+  Apasionado por el desarrollo de sistemas web, automatización de procesos y creación de soluciones.
 </p>
 
 <p align="center">
