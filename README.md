@@ -72,17 +72,6 @@
 
 ---
 
-## 🔥 Racha de contribuciones
-
-<div align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=EmanuelRiosRoque&theme=github-dark-blue&hide_border=true" 
-    alt="GitHub Streak"
-  />
-</div>
-
----
-
 ## 📈 Actividad reciente
 
 <div align="center">
