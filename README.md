@@ -37,49 +37,48 @@
 
 ## 📊 Estadísticas de GitHub
 
-<div align="center">
-
+<p align="center">
   <img 
+    width="100%"
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EmanuelRiosRoque&theme=github_dark" 
     alt="Resumen del perfil de GitHub de Emanuel"
   />
+</p>
 
-  <br><br>
-
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EmanuelRiosRoque&theme=github_dark" 
-    alt="Lenguajes por repositorio"
-  />
-
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EmanuelRiosRoque&theme=github_dark" 
-    alt="Lenguajes por commits"
-  />
-
-  <br><br>
-
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EmanuelRiosRoque&theme=github_dark" 
-    alt="Estadísticas generales"
-  />
-
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EmanuelRiosRoque&theme=github_dark&utcOffset=-6" 
-    alt="Horario productivo"
-  />
-
-</div>
-
----
-
-## 📈 Actividad reciente
-
-<div align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=EmanuelRiosRoque&theme=github-compact&hide_border=true" 
-    alt="Gráfica de actividad de GitHub"
-  />
-</div>
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <img 
+        width="100%"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EmanuelRiosRoque&theme=github_dark" 
+        alt="Lenguajes por repositorio"
+      />
+    </td>
+    <td width="50%" align="center">
+      <img 
+        width="100%"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EmanuelRiosRoque&theme=github_dark" 
+        alt="Lenguajes por commits"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img 
+        width="100%"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EmanuelRiosRoque&theme=github_dark" 
+        alt="Estadísticas generales"
+      />
+    </td>
+    <td width="50%" align="center">
+      <img 
+        width="100%"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EmanuelRiosRoque&theme=github_dark&utcOffset=-6" 
+        alt="Horario productivo"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -159,6 +158,7 @@ Móvil           Flutter · Capacitor
 
 <p align="center">
   <img 
+    width="100%"
     alt="snake eating my contributions" 
     src="https://raw.githubusercontent.com/EmanuelRiosRoque/EmanuelRiosRoque/output/github-contribution-grid-snake.svg" 
   />
