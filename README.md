@@ -126,18 +126,6 @@
 
 ---
 
-## 🚀 Áreas de experiencia
-
-```txt
-Backend         Laravel · PHP · APIs REST · Livewire
-Frontend        Blade · JavaScript · Tailwind CSS · Bootstrap · Alpine.js
-Bases de datos  MySQL · SQL Server · Oracle · MongoDB
-Herramientas    Git · GitHub · Composer · NPM · Docker · Postman
-Móvil           Flutter · Capacitor
-```
-
----
-
 ## 📌 Actualmente
 
 <p align="center">
